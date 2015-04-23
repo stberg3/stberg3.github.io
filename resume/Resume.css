@@ -1,0 +1,44 @@
+* {
+	font-family: Arial;
+	}
+
+h1{
+	position: fixed;
+	text-align: center;
+	top: -50px;
+	text-transform: uppercase;
+	font-family: Helvetica;
+	font-size: 65px;
+	color: #003033;
+	text-shadow: 2px 2px 2px #666666;
+	background-color: rgba( 0, 0 , 0, .4);;
+	width: 100%
+	}
+
+h2, h5{
+	color: DarkCyan;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+}
+
+h3 {color: #03114f;}
+h4 {color: darkcyan;}
+
+ul, .dates, .info, .cr {
+	text-align: right;
+	color: DarkCyan;
+	text-transform: uppercase;
+}
+
+h2 {
+	text-align: center;
+	background-color: rgba( 0, 0, 0, 0.2);
+	}
+	
+body {
+	background-color: rgba( 0, 0, 0, 0.1);
+}
+
+.dates {float: right;}
+
+.info { margin-top: 100px;}
