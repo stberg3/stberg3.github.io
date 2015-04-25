@@ -24,6 +24,10 @@ ul, .dates, .info, .cr {
 	text-transform: uppercase;
 }
 
+img {
+	float: left;
+}
+
 h2 {
 	text-align: center;
 	background-color: rgba( 0, 0, 0, 0.2);
