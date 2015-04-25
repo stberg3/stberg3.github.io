@@ -1,6 +1,8 @@
 * {font-family: Arial;}
 
 h1{
+	float: top;
+	top:300px;
 	text-transform: uppercase;
 	font-family: Helvetica;
 	text-align: center;
