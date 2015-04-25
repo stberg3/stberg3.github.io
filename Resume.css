@@ -27,7 +27,7 @@ ul, .dates, .info, .cr {
 
 img {
 	float: left;
-	float: top;
+	top: 100px;
 }
 
 h2 {
