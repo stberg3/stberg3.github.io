@@ -8,7 +8,7 @@ public void set(int n){
 		throw new IndexOutOfBoundsException();
 		
 	int bitmask = 1<<(n%32);		
-		array[(int) Math.floor(n/32.0)] |= bitmask;
+	array[(int) Math.floor(n/32.0)] |= bitmask;
 }
 </pre>
 </body>
