@@ -24,7 +24,16 @@ h4 {color: darkcyan;}
 	float: right;
 }
 
+.image {
+	float: left;
+}
 
+img{ border:1px solid #ccc; 
+	padding:2px; 
+	background:#eee; 
+	
+	border-radius: 50%;
+	}
 
 .bold {
 	font-weight: bold;
