@@ -20,11 +20,22 @@ h2, h5{
 h3 {color: #03114f;}
 h4 {color: darkcyan;}
 
-ul, .dates, .info, .cr {
-	text-align: right;
-	color: DarkCyan;
-	text-transform: uppercase;
+.dates{
+	float: right;
 }
+
+.bold {
+	font-weight: bold;
+}
+
+.nav, .info {
+	text-align: right;
+}
+
+* {
+	margin: 10px 20px 20px 20px;
+}
+
 
 img {
 	float: top;
