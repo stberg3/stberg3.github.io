@@ -1,5 +1,9 @@
 * {font-family: Arial;}
 
+meta {
+	display: none;
+}
+
 h1{
 	float: top;
 	top:300px;
