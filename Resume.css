@@ -1,67 +1,53 @@
-* {font-family: Arial;}
+* {		font-family: Arial;
+			margin: 10px 20px 20px 20px;}
+
+body {
+			background-color: rgba( 0, 0, 0, 0.1); }
+
+h1 {	float: top;
+			top:300px;
+			text-transform: uppercase;
+			font-family: Helvetica;
+			text-align: center;
+			font-size: 120px;
+			color: #003033;
+			text-shadow: 2px 2px 2px #666666; }
+
+h2 {	text-align: center;
+			background-color: rgba( 0, 0, 0, 0.2); }
+
+h2, h5 {
+			color: DarkCyan;
+			text-transform: uppercase;
+			letter-spacing: 0.1em; }
+
+h3 {	color: #03114f;}
+
+h4 {	color: darkcyan;}
 
 h4, h5 {
-	margin-left: 20px;
-}
+			margin-left: 20px; }
 
-h1{
-	float: top;
-	top:300px;
-	text-transform: uppercase;
-	font-family: Helvetica;
-	text-align: center;
-	font-size: 120px;
-	color: #003033;
-	text-shadow: 2px 2px 2px #666666;
-	}
+.bold {
+			font-weight: bold;}
 
-h2, h5{
-	color: DarkCyan;
-	text-transform: uppercase;
-	letter-spacing: 0.1em;
-}
-
-h3 {color: #03114f;}
-h4 {color: darkcyan;}
-
-.dates{
-	float: right;
-}
+.dates {
+		float: right; }
 
 .image {
 	float: left;
-}
-
-img{ border:1px solid #ccc; 
-	padding:2px; 
-	background:#eee; 
-	
-	border-radius: 50%;
-	}
-
-.bold {
-	font-weight: bold;
-}
-
+	border:1px solid #ccc;
+	padding:2px;
+	background:#eee;
+	float: top;
+	border-radius: 50%; }
 
 .nav, .info {
-	text-align: right;
-}
+	text-align: right; }
 
-* {
-	margin: 10px 20px 20px 20px;
-}
-
-
-img {
-	float: top;
-}
-
-h2 {
-	text-align: center;
-	background-color: rgba( 0, 0, 0, 0.2);
-	}
-	
-body {
-	background-color: rgba( 0, 0, 0, 0.1);
+#ani_frame {
+	height: 64px;
+	width: 64px;
+	background-position: 0px 320px;
+	background-image: url('http://opengameart.org/sites/default/files/platformer_sprites_base.png');
 }
