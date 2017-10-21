@@ -140,7 +140,7 @@ header .scrolldown a:hover { color: #11ABB0; }
    left: 0;
    top: 0;
 }
-.opaque { background-color: #333; }
+.opaque { background-color: #92b8d4; }
 
 /* hide toggle button */
 #nav-wrap > a.mobile-btn { display: none; }
@@ -325,60 +325,90 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
-  	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+.java {
+  	width: 100%;
+  	-moz-animation: jquery 2s ease;
+  	-webkit-animation: jquery 2s ease;
 }
-.illustrator {
-  	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
-}
-.wordpress {
-  	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
-}
-.css {
+
+.python {
   	width: 90%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+  	-moz-animation: jquery 2s ease;
+  	-webkit-animation: jquery 2s ease;
 }
-.html5 {
-  	width: 80%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
-}
-.jquery {
+
+.git {
   	width: 50%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
 
-@-moz-keyframes photoshop {
-  0%   { width: 0px;  }
-  100% { width: 60%;  }
+.webtech {
+  	width: 80%;
+  	-moz-animation: jquery 2s ease;
+  	-webkit-animation: jquery 2s ease;
 }
-@-moz-keyframes illustrator {
-  0%   { width: 0px;  }
-  100% { width: 55%;  }
+
+.c {
+  	width: 50%;
+  	-moz-animation: jquery 2s ease;
+  	-webkit-animation: jquery 2s ease;
 }
-@-moz-keyframes wordpress {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
+
+.cpp {
+  	width: 25%;
+  	-moz-animation: jquery 2s ease;
+  	-webkit-animation: jquery 2s ease;
 }
-@-moz-keyframes css {
+
+@-moz-keyframes java {
+  0%   { width: 0px;  }
+  100% { width: 100%;  }
+}
+@-moz-keyframes python {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-moz-keyframes html5 {
+@-moz-keyframes webtech {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes jquery {
+@-moz-keyframes git {
   0%   { width: 0px;  }
   100% { width: 50%;  }
+}
+@-moz-keyframes c {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-moz-keyframes cpp {
+  0%   { width: 0px;  }
+  100% { width: 25%;  }
+}
+
+@-webkit-keyframes java {
+  0%   { width: 0px;  }
+  100% { width: 100%;  }
+}
+@-webkit-keyframes python {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-webkit-keyframes webtech {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes git {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-webkit-keyframes c {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-webkit-keyframes cpp {
+  0%   { width: 0px;  }
+  100% { width: 25%;  }
 }
 
 @-webkit-keyframes photoshop {

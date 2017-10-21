@@ -1,8 +1,14 @@
 * {		font-family: Arial;
 			margin: 10px 20px 20px 20px;}
 
+p {
+	margin: 20px !important;
+}
+
 body {
-			background-color: rgba( 0, 0, 0, 0.1); }
+			background-color: rgba( 0, 0, 0, 0.1); 
+      margin: 20px !important;
+}
 
 h1 {	float: top;
 			top:300px;

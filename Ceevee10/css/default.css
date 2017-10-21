@@ -802,6 +802,7 @@ properly.
 	text-align: center !important;
 }
 
-
-
-
+ul.roles {
+  list-style: disc;
+  margin-left: 1em;
+}
