@@ -1,20 +1,31 @@
 # **Sam Berg**
-3345 35th Avenue South<br>
-Minneapolis, Minnesota 55406<br>
-(612) 708-4176
+stberg3@gmail.com
 
 
 ## Education
 University of Minnesota - Twin Cities<br>
 Bachelor of Science - Computer Science - 2017<br>
-GPA: 3.6
 
 University of Wisconsin - Madison<br>
 Bachelor of Arts - English - 2012<br>
-GPA: 3.2<br>
 
 
 ## Employment History
+
+
+**HealthPartners**
+*Backend Web Developer - January 2021 - Present*
+- Splitting a monolithic application into a microservice based app
+- Manage distributed deployments using Jenkins and Kubernetes
+- Meet with stakeholders to develop requirements and demonstrate features
+
+**Publicis Sapient - Government Services**
+*Associate Developer - February 2019 - January 2021*
+<br>
+- Designed, developed, and maintained Spring Boot REST APIs
+- Managed CI/CD pipelines in Jenkins
+- Used Spring Integration to configure Kafka stream consumers
+- Ensured automated test coverage on web, unit, and end-to-end scopes
 
 **Securian Financial Group, Inc.**
 *Associate Analyst - March 2018 - Present*
@@ -28,8 +39,6 @@ ceremonies. Use Splunk to monitor the systems I support.
 - Wrote PowerShell script to revoke 500 certificates in bulk, which retired a manual
 	process that would have taken one engineer days to complete
 
-
-**Securian Financial Group, Inc.**
 *Application Developer - January 2018 - March 2018*
 <br>
 Trained to become a Java developer who would engineer Spring Batch applications
